@@ -6,7 +6,7 @@ Events
    <br />
 
 
-* 26 December 2026 : GlobMig Meeting 
+* 26 December 2026 : Big GlobMig Meeting 
 
 .. image:: _static/example_meeting.png
   :height: 200
